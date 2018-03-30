@@ -47,6 +47,14 @@ PRODUCT_PACKAGES += \
     SettingsDarkTheme \
     SystemDarkTheme
 
+# BlackAF Theme
+PRODUCT_PACKAGES += \
+    DuiBlackAF \
+    GBoardBlackAF \
+    SettingsBlackAF \
+    SystemBlackAF \
+    UpdaterBlackAF \
+
 # Overlays
 PRODUCT_PACKAGES += \
     AmberAccent \
