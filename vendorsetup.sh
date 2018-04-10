@@ -36,3 +36,5 @@ add_lunch_combo h870-userdebug
 add_lunch_combo h870-eng
 add_lunch_combo us997-userdebug
 add_lunch_combo us997-eng
+add_lunch_combo berkeley-userdebug
+add_lunch_combo berkeley-eng
