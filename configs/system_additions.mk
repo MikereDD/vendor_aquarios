@@ -53,7 +53,7 @@ PRODUCT_PACKAGES += \
     GBoardBlackAF \
     SettingsBlackAF \
     SystemBlackAF \
-    UpdaterBlackAF \
+    UpdaterBlackAF
 
 # Overlays
 PRODUCT_PACKAGES += \
