@@ -90,6 +90,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/aquarios/prebuilt/bin/clean_cache.sh:system/bin/clean_cache.sh
 
+# Unlimitted photo storage in Google Photos
+PRODUCT_COPY_FILES += \
+    vendor/aquarios/prebuilt/etc/sysconfig/pixel_2017_exclusive.xml:system/etc/sysconfig/pixel_2017_exclusive.xml
+
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
