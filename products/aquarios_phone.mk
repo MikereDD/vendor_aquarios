@@ -19,7 +19,8 @@ include vendor/aquarios/products/themes.mk
 # Telephony packages
 PRODUCT_PACKAGES += \
     Stk \
-    CellBroadcastReceiver
+    CellBroadcastReceiver \
+    messaging
 
 # Allow tethering without provisioning app
 PRODUCT_PROPERTY_OVERRIDES += \
